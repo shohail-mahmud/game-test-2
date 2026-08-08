@@ -1,0 +1,16 @@
+export const CHUNK_SIZE = 120;
+export const CHUNK_LOAD_RADIUS = 3;
+export const CHUNK_UNLOAD_RADIUS = CHUNK_LOAD_RADIUS + 1;
+export const WORLD_SEED = 12345;
+export const BOAT_MAX_SPEED = 22;
+export const BOAT_ACCEL = 16;
+export const BOAT_DECEL = 10;
+export const BOAT_TURN_SPEED = 2.2;
+export const BOAT_BOB_FREQ = 1.6;
+export const BOAT_BOB_AMP = 0.18;
+export const ISLAND_MIN_DIST = 80;
+export const DISCOVERY_RADIUS = 55;
+export const CAMERA_HEIGHT = 55;
+export const CAMERA_DISTANCE = 70;
+export const FOG_COLOR = 0x0b1d2e;
+export const OCEAN_COLOR = 0x1a7a9e;
